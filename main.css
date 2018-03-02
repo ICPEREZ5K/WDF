@@ -20,3 +20,13 @@ li {
 nav a {
     color: black;
 }
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.side-text {
+    display: inline-block;
+    width: 50%;
+}
